@@ -122,7 +122,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Maintainer - [@YourGitHub](https://github.com/judeotine)
+Project Maintainer - [JudeOtine](https://github.com/judeotine)
 
 Project Link: [https://github.com/judeotinee/Forkful](https://github.com/judeotine/Forkful)
 
