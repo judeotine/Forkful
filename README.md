@@ -1,11 +1,11 @@
 
 <p align="center">
-  <img src="https://i.imgur.com/YourLogoHere.png" alt="Forkful Logo" width="200"/>
+  <img src="uploads/logo.png" alt="Forkful Logo" width="200"/>
 </p>
 
 # 🍴 Forkful
 
-> A delightful mobile recipe assistant that helps you discover, save, and cook amazing meals with ease.
+> A delightful mobile recipe assistant that helps you discover, save and cook amazing meals with ease.
 
 [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue.svg)](https://www.typescriptlang.org/)
 [![React](https://img.shields.io/badge/React-18.3.1-61dafb.svg)](https://reactjs.org/)
@@ -36,10 +36,10 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="https://i.imgur.com/YourScreenshot1.png" alt="Home Screen" width="200"/>
-  <img src="https://i.imgur.com/YourScreenshot2.png" alt="Recipe Detail" width="200"/>
-  <img src="https://i.imgur.com/YourScreenshot3.png" alt="Meal Planner" width="200"/>
-  <img src="https://i.imgur.com/YourScreenshot4.png" alt="Shopping List" width="200"/>
+  <img src="uploads/mockups/1.png" alt="Home Screen" width="200"/>
+  <img src="uploads/mockups/2.png" alt="Recipe Detail" width="200"/>
+  <img src="uploads/mockups/3.png" alt="Meal Planner" width="200"/>
+  <img src="uploads/mockups/4.png" alt="Shopping List" width="200"/>
 </p>
 
 ## 🛠️ Tech Stack
