@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="uploads/logo.png" alt="Forkful Logo" width="200"/>
+  <img src="public/uploads/logo.png" alt="Forkful Logo" width="200"/>
 </p>
 
 # 🍴 Forkful
