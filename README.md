@@ -36,10 +36,10 @@
 ## 📱 Screenshots
 
 <p align="center">
-  <img src="public/uploads/mockups/1.png" alt="Home Screen" width="200"/>
-  <img src="public/uploads/mockups/2.png" alt="Recipe Detail" width="200"/>
-  <img src="public/uploads/mockups/3.png" alt="Meal Planner" width="200"/>
-  <img src="public/uploads/mockups/4.png" alt="Shopping List" width="200"/>
+  <img src="public/mockups/1.png" alt="Home Screen" width="200"/>
+  <img src="public/mockups/2.png" alt="Recipe Detail" width="200"/>
+  <img src="public/mockups/3.png" alt="Meal Planner" width="200"/>
+  <img src="public/mockups/4.png" alt="Shopping List" width="200"/>
 </p>
 
 ## 🛠️ Tech Stack
