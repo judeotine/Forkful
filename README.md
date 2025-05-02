@@ -73,8 +73,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/forkful.git
-cd forkful
+git clone https://github.com/judeotine/Forkful.git
+cd Forkful
 
 # Install dependencies
 npm install
@@ -122,10 +122,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Project Maintainer - [@YourGitHub](https://github.com/yourusername)
+Project Maintainer - [@YourGitHub](https://github.com/judeotine)
 
-Project Link: [https://github.com/yourusername/forkful](https://github.com/yourusername/forkful)
+Project Link: [https://github.com/judeotinee/Forkful](https://github.com/judeotine/Forkful)
 
 ---
-
-<p align="center">Made with ❤️ and good food</p>
