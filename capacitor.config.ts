@@ -6,7 +6,7 @@ const config: CapacitorConfig = {
   appName: 'Forkful',
   webDir: 'dist',
   server: {
-    url: 'https://1471ef58-a231-4936-aa6e-cdfbc423b482.lovableproject.com?forceHideBadge=true',
+    url: 'https://forkful.vercel.app/',
     cleartext: true
   },
   plugins: {
@@ -32,7 +32,7 @@ const config: CapacitorConfig = {
     allowMixedContent: true,
     captureInput: true,
     webContentsDebuggingEnabled: false,
-    backgroundColor: "#FF8C42", // Matching the app logo's orange color
+    backgroundColor: "#FF8C42", 
     allowBackup: true
   }
 };
